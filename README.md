@@ -1,2 +1,12 @@
-# NLP_Modeling_of_Corporate_Earnings_Calls
-NLP Modeling of Corporate Earnings Calls Questions and Answers
+# NLP Modeling of Corporate Earnings Calls
+
+## Summary
+
+
+## Data Collection and Pre-Processing
+
+
+## Modeling
+
+
+## Results
